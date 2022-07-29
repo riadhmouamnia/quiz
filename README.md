@@ -1,3 +1,3 @@
 # quiz
 making simple quiz using JavaScript
-[View live app](https://karmaforlife.github.io/quiz/)
+[View live app](https://riadhmouamnia.github.io/quiz/)
